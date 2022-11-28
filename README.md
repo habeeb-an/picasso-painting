@@ -1,1 +1,2 @@
 # picasso-painting
+No copyright
